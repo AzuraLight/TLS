@@ -44,9 +44,9 @@ ConfigUtil configUtil = ConfigUtil.getInstance();
 
 이 프로젝트를 사용하기 위해서는 Java가 필요합니다.
 
-keytool을 사용하여, 키와 인증서를 발급한뒤 keys에 추가합니다.
+keytool을 사용하여 키와 인증서를 발급합니다.
 
-config.properties 파일에 필요한 설정과 keys에 생성한 키에 대한 경로 정보를 추가합니다.
+config.properties 파일에 필요한 설정과 생성한 키에 대한 경로 정보를 추가합니다.
 
 ## 라이센스
 
